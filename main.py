@@ -1,6 +1,5 @@
 # 1 import library
 from sklearn.linear_model import LinearRegression
-import pandas as pd
 import matplotlib.pyplot as plt
 import streamlit as st
 
